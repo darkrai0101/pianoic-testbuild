@@ -1,0 +1,45 @@
+﻿v0.01b
+-Fix bug click chuột bị che bởi bảng điểm.
+-Fix chữ loading bị mờ.
+-Tăng tốc loading bài hát.
+-Thêm nút chỉnh âm lượng.
+-Thêm thanh cuộn ở playlist để chọn thêm bài hát.
+
+v0.02b
+- Nút chỉnh âm lượng và setting được đưa xuống phía dưới góc phải
+- Lưu high score trên cache máy.
+- Thêm myevent.js để load những đoạn mã javascript ko cần ngay từ đầu
+
+v0.10
+- Check xem unikey có bật hay không.
+- Có thể click chuột vào bàn phím piano để chơi game.
+- Phần setting thêm lựa chọn:
+   + Enable auto while playing : Dù đánh sai hay đúng vẫn phát nhạc.
+   + Play File while playing:  play file while playing là nó sẽ chạy file chứ ko phải là chạy các nốt nhạc.
+   + Play full File: play full file là tùy chọn chạy file có đệm và không có đệm.
+   + Auto pause when change tab: Tự động dừng khi chuyển tab hoặc chuyển cửa sổ.
+- Thêm tên tác giả vào playlist
+- Sau khi loading xong bài hát có thể ấn phím bất kỳ để tiếp tục.
+
+v0.11
+- Thêm nút chia sẻ
+
+v0.12
+- Thêm 2 tùy chọn vào setting
++ Show text on keyboard: Hiển thị các chữ cái trên phím đàn.
++ Show text on falling keys: Hiển thị chữ cá trên các nốt nhạc 
+
+v0.20
+- Thêm nút full screen
+- Chỉnh lại kích thước nốt nhạc và chữ gợi ý
+- Bỏ hình ảnh ông già noel đi
+- Thêm tùy chọn link load luôn bài hát vào nút share (load thẳng vào màn hình chơi)
+
+v0.3
+- Đưa các biến global vào director
+- Thêm nút create virtual sheet
+- Thêm hashtag cho bài hát
+- Link hiện tên bài hát
+- Hiển thị title là tên bài hát
+- Đặt thêm 1 số phím tắt
+- Fix bug mất thời gian đếm ngược lúc đầu
